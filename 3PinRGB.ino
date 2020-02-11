@@ -74,8 +74,8 @@ void loop() {
 
 
   /* ( MODE 3 ) fading with two colours, */
-  //circleMulticolour(255,127,0,  255,31,255, FAST);
-  //circleMulticolour(WHITE, TURQUOISE, MEDIUM);
+  //fadeTwoColours(255,127,0,  255,31,255, FAST);
+  //fadeTwoColours(WHITE, TURQUOISE, MEDIUM);
 
 
   /* ( MODE 4 ) circling, only one colour */
